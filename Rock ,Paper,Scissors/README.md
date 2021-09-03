@@ -1,3 +1,3 @@
 Created rock papers scissors game using JS HTML CSS where we play aganist computer.
 
-![Alt text](/image/Screenshot (80).png )
+![ScreenShot](Rock ,Paper,Scissors/image/Screenshot (80).png )
