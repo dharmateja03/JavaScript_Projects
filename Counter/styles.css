@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+*{
+    margin:0px;
+    padding: 0px;
+    text-align: center;
+}
+body{
+    background: #fffeea;
+}
+.counterbody{
+    font-family: Promt, sans-serif ;
+    text-align: center;
+    font-size: 70px;
+    letter-spacing: 5px;
+}
+.count
+{
+    font-family: ABeeZee, sans-serif ;
+    text-align: center;
+    font-size: 80px;
+
+}
+.operations
+{
+ font-family: Roboto,sans-serif;
+ text-align: center;
+ display: inline-block;
+ 
+ 
+
+}
+.i{
+    
+    border: solid 3px black;
+    border-radius: 15px;
+    font-size: 45px;
+    letter-spacing: 5px;
+    display: inline-block;
+    margin: 40px;
+    padding: 1px 20px;
+}
+.i:hover
+{
+    cursor: pointer;
+    background: black;
+    color: #fffeea;
+
+}
+.d{
+    
+    border: solid 3px black;
+    border-radius: 15px;
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin: 40px;
+    display: inline-block;
+    padding: 1px 20px;
+    cursor: pointer;
+}
+.d:hover
+{
+    cursor: pointer;
+    background: black;
+    color: #fffeea;
+
+}
+.r{
+    
+    border: solid 3px black;
+    border-radius: 15px;
+    font-size: 45px;
+    margin: 40px;
+    letter-spacing: 5px;
+    display: inline-block;
+    padding: 1px 20px;
+    cursor: pointer;
+}
+.r:hover
+{
+    cursor: pointer;
+    background: black;
+    color: #fffeea;
+
+}
+.whole
+{
+  margin-top: 10%;
+    text-align: center;
+}
+
+
+
